@@ -8,13 +8,13 @@ packages:
   crucible/
   crucible-jvm/
   crucible-llvm/
+  crucible-mc/
   crucible-saw/
   crucible-server/
   crucible-syntax/
   crux/
   crux-llvm/
-  crucible-mc/
-  
+
 optional-packages:
   dependencies/abcBridge/
   dependencies/aig/
