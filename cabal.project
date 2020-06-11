@@ -21,6 +21,7 @@ optional-packages:
   dependencies/blt/
   dependencies/jvm-parser/
   dependencies/hpb/
+  dependencies/language-sally/
   dependencies/llvm-pretty/
   dependencies/llvm-pretty-bc-parser/
   dependencies/parameterized-utils/
@@ -33,3 +34,4 @@ optional-packages:
   dependencies/what4/what4/
   dependencies/what4/what4-abc/
   dependencies/what4/what4-blt/
+  dependencies/what4/what4-transition-system/
